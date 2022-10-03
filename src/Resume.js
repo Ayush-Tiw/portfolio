@@ -6,7 +6,7 @@ export function Resume() {
       <h2>
         Resume
       </h2>
-      <div className="resume-container"><button><a href="https://www.zenclass.in/class" target="_blank">Resume</a></button></div>
+      <div className="resume-container"><button><a href="https://drive.google.com/file/d/1O8borBIU3Oc91HejLZFoGUFUcWZagWXq/view" target="_blank">Resume</a></button></div>
 
     </div>
   );
