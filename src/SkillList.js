@@ -49,6 +49,10 @@ export function SkillList() {
       name: "GitHub",
     },
     {
+      image: "https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png",
+      name: "Bootstrap",
+    },
+    {
       image: "https://opencollective-production.s3.us-west-1.amazonaws.com/ada636e0-395b-11ea-8ab7-b3f0317bbc7c.png",
       name: "MaterialUI",
     },
