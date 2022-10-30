@@ -25,7 +25,7 @@ export function Project() {
             <h3>  Food Zone-A food delivery App</h3>
             <p>
               I built a user interative food delivery app, in which first if user
-              is not existing user<span style={span1style}>.....<button onClick={() => setShow(!show)}>Read more</button></span><span style={span2style}> then it has to first signup with valid credentials. Upon succesfull registration user has to login for exploring the app. User has to select food from list of food, then it has to choose the restaurant from he desires to order.  After adding to cart user can buy the selected food. </span>
+              is not existing user<span style={span1style}>.....<button onClick={() => setShow(!show)}>Read more</button></span><span style={span2style}> then it has to first signup with valid credentials. Upon successfull registration user has to login for exploring the app. User has to select food from list of food, then it has to choose the restaurant from he desires to order.  After adding to cart user can buy the selected food. </span>
             </p>
           </div>
           <div>
