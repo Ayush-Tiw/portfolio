@@ -64,7 +64,7 @@ export function SkillList() {
 
   return (
     <div>
-      <h2>Skills</h2>
+      <h2 className="heading">Skills</h2>
       <div className="skill-list-container">
         {skillList.map((skill) => (
           <Skill skill={skill} />

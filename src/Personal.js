@@ -3,7 +3,7 @@ export function Personal() {
 
   return (
     <div>
-      <h2>Personal Info</h2>
+      <h2 className="heading">Personal Info</h2>
       <div className="personal-container">
         <p><span className="bold">Name : </span>Ayush Tiwari</p>
         <p><span className="bold">Email : </span> ayushtiwari782@gmail.com</p>
