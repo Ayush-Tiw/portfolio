@@ -31,10 +31,6 @@ export function SkillList() {
       image: "https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg",
       name: "MongoDB",
     },
-    {
-      image: "https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-cdb-for-mysql-7.png",
-      name: "Mysql",
-    },
 
     {
       image: "https://th.bing.com/th/id/OIP.vz7_8tUPWjssC87owmj88gHaHa?pid=ImgDet&rs=1",
@@ -56,10 +52,7 @@ export function SkillList() {
       image: "https://opencollective-production.s3.us-west-1.amazonaws.com/ada636e0-395b-11ea-8ab7-b3f0317bbc7c.png",
       name: "MaterialUI",
     },
-    {
-      image: "https://images.idgesg.net/images/article/2018/11/aws_logo-100781597-large.jpg",
-      name: "AWS",
-    },
+   
   ];
 
   return (
