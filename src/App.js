@@ -11,11 +11,10 @@ function App() {
     <div className="app-container">
       <AboutMe />
       <SkillList />
-      <Project />
       <Personal/>
-      <Resume/>
     </div>
   );
 }
+
 
 export default App;
